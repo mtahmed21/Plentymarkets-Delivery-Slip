@@ -1,0 +1,14 @@
+{
+    "label": "Plentymarkets Delivery Slip Plugin",
+    "version": "1.0",
+    "authors": [
+        {
+            "name": "Your Name",
+            "email": "your@email.com"
+        }
+    ],
+    "require": {
+        "php": "^8.0",
+        "plenty-sdk": "^1.0.0"
+    }
+}
